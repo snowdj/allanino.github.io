@@ -12,7 +12,7 @@ I found it difficult to say I'm a bunch of words or vocalized sounds, so I think
 
 Besides my interest in ontological questions and other philosophical matters, I'm true passionate about Mathematics. Sometimes I have this sense of wonder when faced by its beautiful, even mysterious, structures and patterns. It's not so surprising that I'm a platonist, in the sense that I believe that mathematics is discovered, not invented.
 
-I have also a lot of interest in diverse fields, from physics and astronomy, which I studied as an undergraduate for two years, to artificial intelligence, programming, photography and music (I'm teaching myself to play the piano).
+I have also a lot of interest in diverse fields, from physics and astronomy, which I studied as an undergraduate for two years, to artificial intelligence, programming, science fiction, photography and music (I'm teaching myself to play the piano).
 
 Currently, I'm a student at UFSCar (Universidade Federal de São Carlos) in Brazil, doing Master's studies in Mathematics. I'm also working with machine learning at an amazing company, called CloudWalk.
 
