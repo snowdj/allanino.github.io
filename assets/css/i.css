@@ -1016,10 +1016,10 @@ footer .prev-posts li span.date {
 }
 footer .social {
   position: absolute;
-  top: 66px;
+  top: 100px;
   display: inline;
   float: left;
-  width: 7%;
+  width: 20%;
   margin: 0 1.25%;
   right: 5vw;
   font-style: italic;
@@ -1042,7 +1042,7 @@ footer .social ul li:last-child {
 }
 
 footer .social [class^="icon-"], [class*=" icon-"] {
-  font-size: 36px;
+  font-size: 48px;
 }
 
 .disqus {
@@ -1070,9 +1070,9 @@ footer .social [class^="icon-"], [class*=" icon-"] {
     right: 10vw;
   }
 
-[class^="icon-"], [class*=" icon-"] {
-  font-size: 24px;
-}
+  footer .social [class^="icon-"], [class*=" icon-"] {
+    font-size: 24px;
+  }
 
 }
 /* Mobile
