@@ -1,11 +1,11 @@
 ---
-layout: page-light-feature
+layout: page
 permalink: /photography/
 title: Photography
 description: See some wonders of our world through my lens.
 tags: [photography]
 image:
-  feature: god_rays.jpg
+  feature: sunrise.jpg
 ---
 
 I love photography, so all the pictures you see in this website is my own work. Just keep in mind that I'm a learner and a hobbist who doesn't even have his own equipment. I thanks my father for being such a nice guy, allowing me to use his equipment and teaching me all the basics.
