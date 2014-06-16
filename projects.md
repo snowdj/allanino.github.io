@@ -36,7 +36,7 @@ This is a simple way to write LaTeX equations in your Github repo's README. Now 
 See it: 
 <a href="https://github.com/allanino/markdown-latex" target="_blank"><span class="icon-github2"></span></a>
 
-[blog post]:{{ site.url }}/monty-hall-simulation
+[blog post]:{{ site.url }}/blog/monty-hall-problem/
 [Nature]:http://www.nature.com/nature/journal/v494/n7435/full/nature11875.html
 [CodeCogs]:http://www.codecogs.com/latex/eqneditor.php
 [PyGame]:http://www.pygame.org/news.html
