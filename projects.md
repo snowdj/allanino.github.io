@@ -24,14 +24,14 @@ See it:
 
 ## Ballistic Game
 
-I started this project an year ago, but haven't worked on it for a while, so it's very raw. To be fair, it isn't a game, it's just a physics simulator that uses [PyGame] to display cannon balls trajectories, created to help anyone wondering how they could have an angrybirdsy touch in their game. I also like to use it when teaching physics. I would like to create more accurate time representations and to add some drones to get shot. Maybe I'll do that with HTML5, as I'm trying to learn it. 
+I started this project an year ago, but haven't worked on it for a while, so it's very raw. To be fair, it isn't a game, it's just a physics simulator that uses [PyGame] to display cannon balls trajectories, created to help anyone wondering how they could have an angrybirdsy touch in their game. I also like to use it when teaching physics. Thinkind ahead, I would like to create more accurate time representations and to add some drones to get shot. Maybe I'll do that with HTML5, as I'm trying to learn it. 
 
 See it: 
 <a href="https://github.com/allanino/BallisticGame" target="_blank"><span class="icon-github2"></span></a>
 
 ## Markdown-LaTeX
 
-This is a simple way to write LaTeX equations in your Github repo's README. Now I know that Github Pages is the way to go in case you want some fancy presentation for your project, but if anyone want their README to look pretty in their repo page, this script can do that. It just takes a README written in Markdown + LaTex (with equations between $$) and replace all equations with image links for them rendered in CodeCogs.
+This is a simple way to write LaTeX equations in your Github repo's README. Now I know that Github Pages is the way to go in case you want some fancy presentation for your project, but if anyone want their README to look pretty in their repo page, this script can do that. It just takes a README written in Markdown + LaTex (with equations between $$) and replace all equations with image links for them rendered in [CodeCogs].
 
 See it: 
 <a href="https://github.com/allanino/markdown-latex" target="_blank"><span class="icon-github2"></span></a>

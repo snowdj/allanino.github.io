@@ -8,7 +8,7 @@ image:
   feature: god_rays.jpg
 ---
 
-I love photography, so all the pictures you see in this website is my own work. Just keep in mind that I'm a learner and a hobbist with doesn't even have his own equipment. I thanks my father for being such a nice guy, allowing me to use his equipment and teaching me all the basics.
+I love photography, so all the pictures you see in this website is my own work. Just keep in mind that I'm a learner and a hobbist who doesn't even have his own equipment. I thanks my father for being such a nice guy, allowing me to use his equipment and teaching me all the basics.
 
 Take a look at some of my pictures and feel free to join me at Flickr!
 
