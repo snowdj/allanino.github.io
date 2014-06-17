@@ -991,10 +991,10 @@ footer .prev-posts li span.date {
 }
 footer .social {
   position: absolute;
-  top: 100px;
+  top: 99px;
   display: inline;
   float: left;
-  width: 20%;
+  width: 15%;
   margin: 0 1.25%;
   right: 5vw;
   font-style: italic;
@@ -1002,8 +1002,8 @@ footer .social {
 
 footer .social div {
   float: left;
-  margin-left: 8px;
-  margin-right: 8px;
+  margin-left: 12px;
+  margin-right: 12px;
 }
 
 footer .social a:hover {
@@ -1017,7 +1017,7 @@ footer .social ul li:last-child {
 }
 
 footer .social [class^="icon-"], [class*=" icon-"] {
-  font-size: 48px;
+  font-size: 42px;
 }
 
 .disqus {
