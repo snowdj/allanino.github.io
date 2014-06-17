@@ -8,7 +8,7 @@ categories: blog
 math: true
 comments: true
 image:
-    feature: night_sunset.jpg
+    feature: star_trail.jpg
 ---
 
 This is my first entry in this blog! It is rightful, as I decided to create this website after much thinking about the best way to share my Monty Hall simulation. But before showing you that, why do I need a Monty Hall simulator?
@@ -21,9 +21,9 @@ Imagine you are a player in the famous game show <span style="font-style:italic"
 
 The first time I heard the problem was in a probability class last month and I thought that I had 50% chance of winning either way. I was wrong. But I couldn't follow as the teacher gave a wordy argument explaning why the probability of winning is 66.6% if you switch doors. A week later I started to understand the answer, thanks to this video in Numberphile's channel:
 
-<figure align="center">
-<iframe width="560" height="315" src="//www.youtube.com/embed/4Lb-6rxZxx0" frameborder="0" allowfullscreen></iframe>
-</figure>
+<div class="aspect-ratio" align="center">
+<iframe width="560" height="315"  src="//www.youtube.com/embed/4Lb-6rxZxx0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 They give a good explanation in the video, but I found myself convinced only after I watched the extended version with more math. You don't have to watch the video or do any fancy math if you agree with the following reasoning, adapted from [Wikipedia][Monty Hall Problem]:
 

@@ -15,6 +15,29 @@ summary, time, mark, audio, video {
   vertical-align: baseline;
 }
 
+/* For video embedding*/
+iframe {
+  width: 100%;
+}
+
+/* 9/16 * 100 = 56.25  */
+.aspect-ratio {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%; 
+}
+
+.aspect-ratio iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0; top: 0;
+}
+
+/* This solves the bottom padding problem when using <!DOCTYPE html
+  Tested in Chrome and Firefox and now it works fine!
+*/
 html, body {
   height: 100%;
   margin: 0;
