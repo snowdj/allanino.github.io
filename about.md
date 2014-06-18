@@ -17,3 +17,7 @@ I have also a lot of interest in diverse fields, from physics and astronomy, whi
 Currently, I'm a student at UFSCar (Universidade Federal de São Carlos) in Brazil, doing Master's studies in Mathematics.
 
 I created this website to talk about the things I like, which includes all of above subjects and a little more. But more than a blog, it is also a hub for any projects I come to conceive.
+
+If you want more: [about.me/allanino][1]
+
+[1]:http://about.me/allanino
