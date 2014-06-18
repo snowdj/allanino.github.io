@@ -13,7 +13,7 @@ Monty Hall problem is a surprising probability problem. Many people don't believ
 
 See it: 
 <a href="https://github.com/allanino/monty-hall-simulation" target="_blank"><span class="icon-github2"></span></a>
-<a href="https://allanino.github.io/monty-hall-simulation" target="_blank"><span class="icon-html5"></span></a>
+<a href="{{ site.url }}/monty-hall-simulation" target="_blank"><span class="icon-html5"></span></a>
 
 ## DNA information encoding
 
