@@ -37,6 +37,6 @@ They give a good explanation in the video, but I found myself convinced only aft
 
 Even after seeing all those explanations, I wanted to experiment with it and "confirm" the answer was indeed correct (what a shameful aspiring mathematician!). I've also seen many people who don't believe the answer anyway (my parents for a start) so I decided to create a simulation of the problem. Try it:
 
-<a href="https://allanino.github.io/monty-hall-simulation" target="_blank"><span class="icon-html5"> Monty Hall Simulation</span></a>
+<a href="{{ site .url }}/monty-hall-simulation" target="_blank"><span class="icon-html5"> Monty Hall Simulation</span></a>
 
 [Monty Hall Problem]:http://en.wikipedia.org/wiki/Monty_Hall_problem
