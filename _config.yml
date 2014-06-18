@@ -3,6 +3,8 @@ tagline:          My digital home.
 description:      I just want to share some things and keep all in the same place.
 #Comment out url when working locally to resolve base urls correctly
 #url: allanino.me
+# Hack to use in Twitter API. {{ site.url }} wasn't working and url messy up other things
+domain: allanino.me
 
 # Owner/author information
 owner:
@@ -15,7 +17,6 @@ owner:
   flickr:         allanino      
   disqus:         allanino
   location:       "Brazil"
-  # Plug in your disqus shortname!
 
 tools:
   standards:      "HTML, SCSS, Jekyll"
