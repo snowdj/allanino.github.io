@@ -12,8 +12,4 @@ image:
 
 I like it:
 
-\\[
-
-E = mc^2
-
-\\]
+\\[ E = mc^2 \\]
