@@ -32,6 +32,8 @@ They give a good explanation in the video, but I found myself convinced only aft
 3. You have a 2/3 chance that a goat is behind the door. In this case, if you switch you win (as the other goat was revealed by the host). 
 4. Conclusion: if you switch you win 2/3 of times.
 
+It's wonderful, isn't it?
+
 ## The simulation
 
 
