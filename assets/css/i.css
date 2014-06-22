@@ -69,7 +69,7 @@ table
   margin: 45px;
   width: 480px;
   border-collapse: collapse;
-  text-align: left;
+  text-align: center;
 }
 th
 {
@@ -687,7 +687,7 @@ header.site-header nav ul li a:hover {
   display: block;
   margin: 0 auto;
   float: none;
-  padding-top: 140px;
+  padding-top: 66px;
 }
 .archive-wrap .post-list {
   list-style-type: none;
