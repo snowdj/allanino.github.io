@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-light-feature
 title: Projects
 description: Some of the things I have coded.
 permalink: /projects/
