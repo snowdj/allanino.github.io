@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Projects
-description: Some of the things I've coded.
+description: Some of the things I have coded.
 permalink: /projects/
 image:
-    feature: moon.jpg
+    feature: moon_f.jpg
 ---
 
 ## Monty Hall Simulation

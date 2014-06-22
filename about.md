@@ -5,7 +5,7 @@ title: About
 description: I'm Allan Inocêncio de Souza Costa. This is my name, at least.
 tags: [about]
 image:
-  feature:  night_sunset.jpg
+  feature:  night_sunset_f.jpg
 ---
 
 I found it difficult to say I'm a bunch of words or vocalized sounds, so I think it's better to make the distinction. Anyway, I tend to use just Allan Costa for shortness or allanino for really short. I like the sound of it, rhymes with neutrino.
