@@ -10,7 +10,6 @@
   <div class="featured-image" style="background-image: url({{ site.url }}/images/star_trail.jpg)"></div>
 {% endif %}
 
-
       <article class="wrap post">
         <header class="post-header">
           <hgroup>
@@ -27,13 +26,12 @@
 
       <!-- Experimental next, previous links  -->
       {% if page.next.url %}
-      <div id="post-navegation" style="float:right"><a href="{{ site.url }}{{ page.next.url }}">Next</a></div>
+      <div id="post-navegation" style="float:right"><a href="{{ site.url }}{{ page.next.url }}">{{ page.next.title }} <span class="icon-arrow-right"></span></a></div>
       {% endif %}
       {% if page.previous.url %}
-      <div id="post-navegation" style="float:left"><a href="{{ site.url }}{{ page.previous.url }}">Previous</a></div>
+      <div id="post-navegation" style="float:left"><a href="{{ site.url }}{{ page.previous.url }}"><span class="icon-arrow-left"></span> {{ page.previous.title}}</a></div>
       {% endif %}
-      
-
+    
       {% if page.comments %}
       <aside class="disqus">
         <div id="disqus_thread"></div>
