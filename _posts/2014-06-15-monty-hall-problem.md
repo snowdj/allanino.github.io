@@ -5,10 +5,10 @@ description: ""
 date:   2014-06-15 19:04:00
 tags: [math, programming]
 categories: blog
-math: true
+math: false
 comments: true
 image:
-    feature: star_trail.jpg
+    feature: star_trail_f.jpg
 ---
 
 This is my first entry in this blog! It is rightful, as I decided to create this website after much thinking about the best way to share my Monty Hall simulation. But before showing you that, why do I need a Monty Hall simulator?
@@ -25,7 +25,7 @@ The first time I heard the problem was in a probability class last month and I t
 <iframe width="560" height="315"  src="//www.youtube.com/embed/4Lb-6rxZxx0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-They give a good explanation in the video, but I found myself convinced only after I watched the extended version with more math. You don't have to watch the video or do any fancy math if you agree with the following reasoning, adapted from [Wikipedia][Monty Hall Problem]:
+They give a good explanation in the video, but I found myself convinced only after I watched the extended version with more math. You don't have to watch the video or do any fancy math if you agree with the following reasoning, adapted from [vos Savant]:
 
 1. Choose a door, let's say number one.
 2. You have a 1/3 chance that the car is behind the door. In this case, if you switch you'll loose the car.
@@ -36,9 +36,9 @@ It's wonderful, isn't it?
 
 ## The simulation
 
+I've also seen many people who don't believe the answer anyway (my parents for a start), so I decided to create a simulation of the problem. To be fair, even I, after seeing all those explanations, wanted to experiment with it and "confirm" the answer was indeed correct (what a shameful aspiring mathematician!). 
 
-Even after seeing all those explanations, I wanted to experiment with it and "confirm" the answer was indeed correct (what a shameful aspiring mathematician!). I've also seen many people who don't believe the answer anyway (my parents for a start) so I decided to create a simulation of the problem. Try it:
+You can try it:
+<a href="{{ site.url }}/monty-hall-simulation" target="_blank"><span style="margin-left:12px;" class="icon-html5"> Monty Hall Simulation</span></a>
 
-<a href="{{ site.url }}/monty-hall-simulation" target="_blank"><span class="icon-html5"> Monty Hall Simulation</span></a>
-
-[Monty Hall Problem]:http://en.wikipedia.org/wiki/Monty_Hall_problem
+[vos Savant]:http://marilynvossavant.com/game-show-problem/
