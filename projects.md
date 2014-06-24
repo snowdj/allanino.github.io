@@ -17,7 +17,7 @@ See it:
 
 ## DNA information encoding
 
-This is a Python implementation of one of the first scalable and reliable algorithm for DNA storage of information. The algorithm was created by Nick Goldman et al and published in [Nature], where I got the necesary details for a full implementation. Let me know if you put your name inside a bacteria!
+This is a Python implementation of one of the first scalable and reliable algorithm for DNA storage of information. The algorithm was created by Nick Goldman et al and published in [Nature], where I got the necessary details for a full implementation. Let me know if you put your name inside a bacteria!
 
 See it: 
 <a href="https://github.com/allanino/DNA" target="_blank"><span class="icon-github2"></span></a>
