@@ -8,6 +8,6 @@ image:
 
 <ol class="categories-list">
   <li><a href="/blog/math">Math</a></li>
-  <li><a href="/blog/programming">Programming</a></li>
-  <li><a href="/blog/everything-else">Everything else</a></li>
+<!--   <li><a href="/blog/programming">Programming</a></li>
+  <li><a href="/blog/everything-else">Everything else</a></li> -->
 </ol>
