@@ -13,7 +13,7 @@ Monty Hall problem is a surprising probability problem. Many people don't believ
 
 See it: 
 <a href="https://github.com/allanino/monty-hall-simulation" target="_blank"><span class="icon-github2"></span></a>
-<a href="{{ site.url }}/math/monty-hall-simulation" target="_blank"><span class="icon-html5"></span></a>
+<a href="{{ site.url }}/monty-hall-simulation" target="_blank"><span class="icon-html5"></span></a>
 
 ## DNA information encoding
 
@@ -36,7 +36,7 @@ This is a simple way to write LaTeX equations in your Github repo's README. Now 
 See it: 
 <a href="https://github.com/allanino/markdown-latex" target="_blank"><span class="icon-github2"></span></a>
 
-[blog post]:{{ site.url }}/blog/monty-hall-problem/
+[blog post]:{{ site.url }}/blog/math/monty-hall-problem/
 [Nature]:http://www.nature.com/nature/journal/v494/n7435/full/nature11875.html
 [CodeCogs]:http://www.codecogs.com/latex/eqneditor.php
 [PyGame]:http://www.pygame.org/news.html
