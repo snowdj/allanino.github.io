@@ -20,6 +20,24 @@ iframe {
   width: 100%;
 }
 
+/* For the categories page*/
+.categories-list {
+  margin-left: 21.5%;
+}
+
+.categories-list li {
+  display: block;
+  float: none;
+  font-size: 32px;
+  margin-bottom: 33px;
+  position: relative;
+}
+
+.categories-list a {
+  text-decoration: none;
+  position: relative;
+}
+
 /* 9/16 * 100 = 56.25  */
 .aspect-ratio {
   position: relative;
@@ -444,6 +462,26 @@ input {
 
 .bb {
   border-bottom: 2px solid #8ab9d1;
+}
+
+.gg {
+  margin-left: 32px;
+  color: #a4a4a4;
+}
+
+.gg a {
+  text-decoration: none;
+  color: #a4a4a4;
+}
+
+.ggr {
+  margin-right: 32px;
+  color: #a4a4a4;
+}
+
+.ggr a {
+  text-decoration: none;
+  color: #a4a4a4;
 }
 
 .pad-top {
