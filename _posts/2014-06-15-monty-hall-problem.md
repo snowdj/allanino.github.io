@@ -1,10 +1,10 @@
 ---
-layout: post    
+layout: post  
 title:  "Monty Hall problem"
 description: ""
 date:   2014-06-15 19:04:00
 tags: [math, programming]
-categories: blog
+categories: math
 math: false
 comments: true
 image:

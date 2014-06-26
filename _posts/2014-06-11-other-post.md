@@ -3,7 +3,7 @@ layout: post
 title:  "I am alive!"
 description: ""
 date:   3013-06-12 21:00:39
-categories: blog
+categories: programming
 math: true
 comments: true
 image:

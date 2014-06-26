@@ -4,7 +4,7 @@ title:  "Euler's number"
 description: ""
 date:   3014-06-20 19:04:00
 tags: [math]
-categories: pt
+categories: math
 math: true
 comments: true
 image:
