@@ -17,7 +17,7 @@ This is my first entry in this blog! It is rightful, as I decided to create this
 
 Imagine you are a player in the famous game show <span style="font-style:italic">Let's make a deal</span>. You are faced with the difficult choice of picking a door out of three possibilities. I say it's difficult because behind one door is an awesome car and behind each of the other two doors is a goat. You correctly guessed that to win the car you must choose the right door, but there is something else I haven't told you: after you pick a door, Monty Hall, the show's host, choose one of the remaining doors having a goat behind it and open it, giving you the opportunity to stay with your previously choosen door or to switch to the remaining one. So here is the problem:
 
-> What choice maximizes your odds of winning?
+> Which choice maximizes your odds of winning?
 
 The first time I heard the problem was in a probability class last month and I thought that I had 50% chance of winning either way. I was wrong. But I couldn't follow as the teacher gave a wordy argument explaning why the probability of winning is 66.6% if you switch doors. A week later I started to understand the answer, thanks to this video in Numberphile's channel:
 
@@ -30,7 +30,7 @@ They give a good explanation in the video, but I found myself convinced only aft
 1. Choose a door, let's say number one.
 2. You have a 1/3 chance that the car is behind the door. In this case, if you switch you'll loose the car.
 3. You have a 2/3 chance that a goat is behind the door. In this case, if you switch you win (as the other goat was revealed by the host). 
-4. Conclusion: if you switch you win 2/3 of times.
+4. Conclusion: if you switch, you win 2/3 of times.
 
 It's wonderful, isn't it?
 
