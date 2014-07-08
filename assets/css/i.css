@@ -20,6 +20,15 @@ iframe {
   width: 100%;
 }
 
+/* For Google autorship */
+.autorship {
+  margin-top:33px;
+  margin-bottom:33px;
+  text-align:right;
+  font-style:italic;
+  font-size:20px;
+}
+
 /* For the categories page*/
 .categories-list {
   margin-left: 21.5%;
