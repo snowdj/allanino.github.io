@@ -13,6 +13,14 @@
 
  
       <div class="social">
+            {% if site.owner.googleplus %}
+            <div>
+              <a id="goog" href="https://plus.google.com/{{ site.owner.googleplus }}" target="_blank">
+                <span class="icon-googleplusr"></span>
+              </a>
+            </div>
+            {% endif %}
+
             {% if site.owner.twitter %}
             <div>
               <a id="twit" href="http://twitter.com/{{ site.owner.twitter }}" target="_blank">
