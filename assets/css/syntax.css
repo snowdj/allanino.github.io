@@ -25,11 +25,11 @@ p > code, p > a > code, li > code, h3 > code
 border-radius: 4px;
 -webkit-border-radius: 4px;
 -moz-border-radius: 4px;
-color: #C5CBD0;
+color: #b9b9b9;
 /*color: white*/
 background-image: url(/images/opaque_20.png);
 font-family: Menlo, Consolas, "Courier New", Courier, "Liberation Mono", monospace;
-font-size: 1.1em;
+font-size: 1.0em;
 /*height: 0px;
 image-rendering: auto;
 left: auto;
