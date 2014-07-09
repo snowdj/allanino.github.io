@@ -1,7 +1,7 @@
 ---
 layout: post  
 title:  "Monty Hall problem"
-description: ""
+description: "It's easier to believe the solution by simulating it."
 date:   2014-06-15 19:04:00
 tags: [math, programming]
 categories: math
