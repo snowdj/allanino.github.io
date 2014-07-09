@@ -19,7 +19,7 @@ So what's the deal? The deal is that you have access to all papers returned in t
 
 Digging a little deeper, you'll notice by the URL that you aren't, in fact, in Google domain. Sci-Hub puts a ".sci-hub.org" after the original domain, in this case after the "scholar.google.com", giving us the URL "scholar.google.com.sci-hub.org".
 
-Now the nice thing: you can do that yourself to access articles from the main journals and publishers directly from their sites. For an example, suppose you want to access The Mathematical Intelligencer journal: [http://link.springer.com/journal/283](http://link.springer.com/journal/283). You'll see that each article costs $39.95 to access, which is way too expensive. So, using the amazing Sci-Hub, we can access it for free just appending "sci-hub.org" after the domain "springer.com": [http://link.springer.com.sci-hub.org/journal/283](http://link.springer.com.sci-hub.org/journal/283). Now you'll notice that you can download every article. Keep in mind that in some cases it will redict you straight to the pdf file, instead of reloading the page with unblocked download links.
+Now the nice thing: you can do that yourself to access articles from the main journals and publishers directly from their sites. For an example, suppose you want to access The Mathematical Intelligencer journal: [http://link.springer.com/journal/283]. You'll see that each article costs $39.95 to access, which is way too expensive. So, using the amazing Sci-Hub, we can access it for free just appending "sci-hub.org" after the domain "springer.com": [http://link.springer.com.sci-hub.org/journal/283]. Now you'll notice that you can download every article. Keep in mind that in some cases it will redict you straight to the pdf file, instead of reloading the page with unblocked download links.
 
 This is a really useful service. Information should be more open and the high prices major publishers put on their publications doesn't help. For instance, two years ago Harvard announced they couldn't afford to paid all their journals subscriptions, as the cost approached $3.75M per year, suggesting the academic community to change toward open-access journals (see [Infospace's analysis][1]).
 
@@ -32,5 +32,7 @@ You can [install it via Chrome store].
 To use, just go to the article's page you want to access and click the extension button.
 
 [1]:http://infospace.ischool.syr.edu/2012/05/29/academic-journals-are-too-expensive-for-harvard-elsevier-is-mega-greedy-and-why-this-stinks-for-future-librarians/
+[http://link.springer.com/journal/283]:http://link.springer.com/journal/283
+[http://link.springer.com.sci-hub.org/journal/283]:http://link.springer.com.sci-hub.org/journal/283
 [sci-hub.org]:http://sci-hub.org
 [install it via Chrome store]:https://chrome.google.com/webstore/detail/sci-hub-fy/gnkckjpgnhkgffcomcocdicefajgeokb
