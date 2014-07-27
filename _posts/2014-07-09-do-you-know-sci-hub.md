@@ -31,6 +31,9 @@ You can [install it via Chrome store].
 
 To use, just go to the article's page you want to access and click the extension button.
 
+EDIT: A friend of mine asked for the extension's code, so here is a link to its [Github repo].
+
+[Github repo]:https://github.com/allanino/sci-hub-fy
 [1]:http://infospace.ischool.syr.edu/2012/05/29/academic-journals-are-too-expensive-for-harvard-elsevier-is-mega-greedy-and-why-this-stinks-for-future-librarians/
 [http://link.springer.com/journal/283]:http://link.springer.com/journal/283
 [http://link.springer.com.sci-hub.org/journal/283]:http://link.springer.com.sci-hub.org/journal/283
