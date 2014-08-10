@@ -1,23 +1,16 @@
-.highlight .hll { background-color: #333333 }
 .highlight  { 
-
-background: #111111; 
-
-color: #ffffff ;
-
-padding: 0.2em 0.9em;
+  background: #222222; 
+  color: #ffffff ;
+  padding: 0.2em 0.9em;
   margin-bottom: 1em;
-    font: normal normal normal 115%/normal 'Monaco', 'Courier New', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', monospace !important;
+  font: normal normal normal 115%/normal 'Monaco', 'Courier New', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', monospace !important;
   line-height: 1.1em;
   overflow: auto;
-    font-size: 1.0em;
-    border: 1px solid #CCC;
-
-    -moz-border-radius:7px;
-    -webkit-border-radius:7px;
-    border-radius:7px;
-
-
+  font-size: 1.0em;
+  border: 1px solid #CCC;
+  -moz-border-radius:7px;
+  -webkit-border-radius:7px;
+   border-radius:7px;
 }
 
 p > code, p > a > code, li > code, h3 > code
@@ -25,15 +18,11 @@ p > code, p > a > code, li > code, h3 > code
 border-radius: 4px;
 -webkit-border-radius: 4px;
 -moz-border-radius: 4px;
-color: #b9b9b9;
+color: #cccccc;
 /*color: white*/
-background-image: url(/images/opaque_20.png);
-font-family: Menlo, Consolas, "Courier New", Courier, "Liberation Mono", monospace;
-font-size: 1.0em;
-/*height: 0px;
-image-rendering: auto;
-left: auto;
-list-style-type: disc;*/
+background: #222222;
+font-size: 0.75em;
+font-family: "Consolas", "Courier New", "Courier", "FreeMono", monospace;
 padding-bottom: 2px;
 padding-left: 4px;
 padding-right: 4px;
@@ -46,10 +35,10 @@ top: auto;
 
 }
 
-
 p > a > code
 {
 color: #95be7d;
+font-size: 1.0em;
 }
 
 code, pre {
@@ -79,6 +68,8 @@ font-size:1em;
 .highlight .cs { color: #75715e } /* Comment.Special */
 .highlight .ge { font-style: italic } /* Generic.Emph */
 .highlight .gs { font-weight: bold } /* Generic.Strong */
+.highlight .go { color: #a8a8a8 } /* Generic.Output */
+.highlight .gp { color: #1f99f4 } /* Generic.Prompt */
 .highlight .kc { color: #66d9ef } /* Keyword.Constant */
 .highlight .kd { color: #66d9ef } /* Keyword.Declaration */
 .highlight .kn { color: #f92672 } /* Keyword.Namespace */
