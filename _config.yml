@@ -4,8 +4,8 @@ description:      I just want to share some things and keep all in the same plac
 #Comment out url when working locally to resolve base urls correctly
 #url: allanino.me
 # Hack to use in Twitter API. {{ site.url }} wasn't working and url messy up other things
-domain: allanino.me
-
+# domain: allanino.me
+url: http://snowdj.github.io/allanino.github.io
 # Owner/author information
 owner:
   name:           Allan Costa
